@@ -6,4 +6,6 @@
     <string name="quizApp">Quiz App!</string>
     <string name="name">Name</string>
     <string name="start">Start</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
 </resources>
